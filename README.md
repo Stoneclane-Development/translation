@@ -2,9 +2,9 @@
 
 ## How do you support translation?
 
-Add the language details in the `/languages/main.json` file to the language you want and send it to us as a Pull Request. When you submit, we will check and if appropriate we will ask you for your discord id, if you have it, your role will be handed over. And your language will be added in about 1 Day after your discord ID is requested.
+Add the language details in the `/languages/[language]` file to the language you want and send it to us as a Pull Request. When you submit, we will check and if appropriate we will ask you for your discord id, if you have it, your role will be handed over. And your language will be added in about 1 Day after your discord ID is requested.
 
-### How should `/[language]/main.json` be?
+### How should `/languages/[language]` be?
 
 ```json
 { 
@@ -13,3 +13,4 @@ Add the language details in the `/languages/main.json` file to the language you 
   "flag": "Flag of Language Country, like: https://flagcdn.com/w40/us.png (we only accept flagcdn)" 
 }
 ```
+
